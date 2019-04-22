@@ -1,1 +1,2 @@
 I am  learning to work with Git.
+I am starting to get the hang of it.
